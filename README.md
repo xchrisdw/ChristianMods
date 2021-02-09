@@ -8,7 +8,8 @@
 ### Connect with me:
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Twitter.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Youtube.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/GitHub.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Instagram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitHub.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" />
