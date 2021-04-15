@@ -5,7 +5,7 @@ I am a developer and "designer". I absolutley love coding and put a lot of time 
 ### Skils
 
 -NodeJS
--C# + C++
+-C# + C++ (kinda)
 -Python
 
 
