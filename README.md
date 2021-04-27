@@ -1,6 +1,7 @@
 ### Hi there, I'm Chris - aka [FNBRChris][twitter]👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fnbrchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffnbrchris&screen_name=fnbrchris)
+[![Github Followers](https://img.shields.io/twitter/follow/fnbrchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/ChristianMods)
 
 ### Connect with me:
 
@@ -39,3 +40,4 @@
 [twitter]: https://twitter.com/FNBRChris
 [youtube]: https://www.youtube.com/channel/UCQN98SpTlpx5KMoHp5t1eyw
 [instagram]: https://instagram.com/fnbrchris
+[github]: https://github.com/ChristianMods
