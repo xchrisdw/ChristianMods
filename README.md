@@ -1,19 +1,39 @@
-### Hi there, I'm Chris - aka FNBRChris 👋
+### Hi there, I'm Chris - aka [FNBRChris][twitter] 👋
 
-I am a developer and "designer". I absolutley love coding and put a lot of time and effort into my projects.
+[![Twitter Follow](https://img.shields.io/twitter/follow/fnbrchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffnbrchris&screen_name=fnbrchris)
 
-### Skils
+### Connect with me:
 
--NodeJS
--C# + C++ (kinda)
--Python
+[<img align="left" alt="fnbrchris | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="fnbrchris | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="fnbrchris | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 
-### GitHub Stats
+### Languages/Skills & Tools
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-![Chris's Stats](https://github-readme-stats.vercel.app/api?username=christianmods&count_private=true&show_icons=true&theme=radical)
+<br />
+<br />
 
-### Top Languages
+-------------
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianmods&show_icons=true&theme=radical)
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+[twitter]: https://twitter.com/FNBRChris
+[youtube]: https://www.youtube.com/channel/UCQN98SpTlpx5KMoHp5t1eyw
+[instagram]: https://instagram.com/fnbrchris
