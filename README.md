@@ -33,9 +33,10 @@
 
 
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="FNBRChris's GitHub Stats" src="https://github-readme-stats.christianmods.vercel.app/api?username=ChristianMods&show_icons=true&hide_border=false&theme=tokyonight" />
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianmods&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img align="left" alt="FNBRChris's GitHub Stats" src="https://github-readme-stats.christianmods.vercel.app/api?username=ChristianMods&show_icons=true&hide_border=false&theme=tokyonight" />
 
 
 [twitter]: https://twitter.com/FNBRChris
