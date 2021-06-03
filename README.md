@@ -4,6 +4,8 @@
  <br />
 [![Github Followers](https://img.shields.io/github/followers/christianmods?style=for-the-badge)](https://github.com/ChristianMods)
 
+<img src="https://komarev.com/ghpvc/?username=ChristianMods&style=flat-square">
+
 ### Connect with me:
 
 [<img align="left" alt="fnbrchris | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
