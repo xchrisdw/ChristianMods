@@ -1,6 +1,6 @@
 ### Hi there, I'm Christian - aka [Chris][twitter]👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fnbrchris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffnbrchris&screen_name=fnbrchris)
+[![Twitter Follow](https://img.shields.io/twitter/follow/xchrisdw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fxchrisdw&screen_name=xchrisdw)
  <br />
 [![Github Followers](https://img.shields.io/github/followers/christianmods?style=for-the-badge)](https://github.com/ChristianMods)
 
