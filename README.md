@@ -43,7 +43,6 @@
  <br />
 
 
-[twitter]: https://twitter.com/FNBRChris
+[twitter]: https://twitter.com/xchrisdw
 [youtube]: https://www.youtube.com/channel/UCQN98SpTlpx5KMoHp5t1eyw
-[instagram]: https://instagram.com/fnbrchris
 [github]: https://github.com/ChristianMods
