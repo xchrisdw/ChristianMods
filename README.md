@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/xchrisdw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fxchrisdw&screen_name=xchrisdw)
  <br />
-[![Github Followers](https://img.shields.io/github/followers/christianmods?style=for-the-badge)](https://github.com/ChristianMods)
+[![Github Followers](https://img.shields.io/github/followers/xchrisdw?style=for-the-badge)](https://github.com/ChristianMods)
 
 <img src="https://komarev.com/ghpvc/?username=ChristianMods&style=flat-square">
 
