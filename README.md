@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/xchrisdw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fxchrisdw&screen_name=xchrisdw)
  <br />
-[![Github Followers](https://img.shields.io/github/followers/xchrisdw?style=for-the-badge)](https://github.com/ChristianMods)
+[![Github Followers](https://img.shields.io/github/followers/xchrisdw?style=for-the-badge)](https://github.com/xchrisdw)
 
-<img src="https://komarev.com/ghpvc/?username=ChristianMods&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=xchrisdw&style=flat-square">
 
 ### Connect with me:
 
@@ -35,7 +35,7 @@
 
   <summary>:zap: GitHub Stats</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianmods&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xchrisdw&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
@@ -44,4 +44,4 @@
 
 [twitter]: https://twitter.com/xchrisdw
 [youtube]: https://www.youtube.com/channel/UCQN98SpTlpx5KMoHp5t1eyw
-[github]: https://github.com/ChristianMods
+[github]: https://github.com/xchrisdw
